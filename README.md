@@ -13,7 +13,7 @@ The analysis computes the following centrality measures for every bus stop:
 
 ## Visualizations
 The project generates a force-directed graph visualization:
-* **Red Nodes:** Net Destintions (More buses arrive than leave).
+* **Red Nodes:** Net Destinations (More buses arrive than leave).
 * **Blue Nodes:** Net Origins (More buses leave than arrive).
 * **Node Size:** Proportional to the total traffic (Degree) of the stop.
 
